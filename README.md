@@ -29,7 +29,7 @@ expression of hallmark genes across global clusters).
 
 Produces the Figure 3 (viral load across conditions and cell types).
 
-### Figures-4-and-S8
+### 04-Figures-4-and-S8
 
 Produces the Figure 4 (proportions of cell type-specific subclusters across
 conditions) and Figure S8 (heatmaps illustrating these subclusters).
