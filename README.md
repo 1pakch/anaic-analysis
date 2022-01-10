@@ -5,6 +5,8 @@ the figures in the manuscript. The starting point of the analysis in terms of da
 are the filtered gene count matrices produced by Cell Ranger - they are stored in
 another repository and are imported as a git submodule.
 
+The raw data of the study is available as [GSM5740432](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5740432) on GEO.
+
 ## Notebooks
 
 ### 00-ingest-and-annotate
